@@ -1,0 +1,18 @@
+TreasureChest
+Treasure Chest
+8 0 0
+W 1 5 1 0 4
+Sword
+Powerful and sharp weapon.
+Damage: 4
+Dimensions: 1x5
+End Description
+Start Moves
+New Move
+Stab
+Sword is thrust forward into the flesh of the opponent.
+Bonus: 1
+Speed Reduction: 1
+End Description
+0 1 1
+End Moves
