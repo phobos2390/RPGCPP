@@ -1,5 +1,4 @@
 #include "Header.h"
-#include "stdafx.h"
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-#include "stdafx.h"
+//#include "stdafx.h"
 #include <iostream>
 #include <fstream>
 #include "LinkedList.h"
@@ -7,7 +7,7 @@
 #include <time.h>
 #include <math.h>
 #include <sstream>
-#include <Windows.h>
+//#include <Windows.h>
 
 using namespace std;
 
